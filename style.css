@@ -2,8 +2,8 @@ body {
     padding-left: 11em;
     font-family: Georgia, "Times New Roman",
           Times, serif;
-    color: purple;
-    background-color: #e6ffff }
+    color: #679b9b;
+    background-color: #fde2e2 }
  /* ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -33,7 +33,7 @@ ul.navbar {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #679b9b;
 }
 
 ul.navbar li {
