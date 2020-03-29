@@ -2,6 +2,7 @@ body {
     padding-left: 0em;
     font-family: Georgia, "Times New Roman",
           Times, serif;
+    font-size: 120%;
     color: #679b9b;
     background-color: #fde2e2 }
  /* ul.navbar {
@@ -32,9 +33,10 @@ ul.navbar {
   list-style-type: none;
   margin: auto;
   padding: 10px;
-  width: 80.8%;
+  width: 80.85%;
   overflow: hidden;
   background-color: #679b9b;
+  text-align:  center
 }
 
 ul.navbar li {
